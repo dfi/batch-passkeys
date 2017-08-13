@@ -1,9 +1,8 @@
+Batch update torrents' passkeys
 
-To update torrents' passkeys with Python.
+Thanks to [flatbencode](https://github.com/acatton/flatbencode).
 
-`flatbencode.py` is from [https://github.com/acatton/flatbencode](https://github.com/acatton/flatbencode) without any changes.
-
-Thanks to acatton.
+---
 
 ### How to use
 
